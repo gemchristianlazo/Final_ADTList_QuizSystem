@@ -31,7 +31,7 @@ Name,Quiz1,Quiz2,Quiz3
 Example:
 ```
 Glinda,85,90,88
-Bob,70,65,72
+Gem,70,65,72
 ```
 
 ---
